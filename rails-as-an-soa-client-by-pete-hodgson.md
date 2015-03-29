@@ -12,18 +12,18 @@ Presenter concentrates on development issues, especially testing external servic
 - [slides](https://speakerdeck.com/phodgson/railsconf2014)
 - [video](https://www.youtube.com/watch?v=CzF3g_JM1YQ)
 
-#### Pic 1
-![pic1.jpg](images/rails-as-an-soa-client-by-pete-hodgson/pic1.jpg)
+#### Monolith Rails App
+![](images/rails-as-an-soa-client-by-pete-hodgson/pic1.jpg)
 
 
-#### Pic 2
+#### Rails App and services
 ![pic2.jpg](images/rails-as-an-soa-client-by-pete-hodgson/pic2.jpg)
 
-#### Pic 3
+#### Monolith Rails App and ext services
 ![pic3.jpg](images/rails-as-an-soa-client-by-pete-hodgson/pic3.jpg)
 
-#### Pic 4
+#### Rack stack
 ![pic4.jpg](images/rails-as-an-soa-client-by-pete-hodgson/pic4.jpg)
 
-#### Pic 5
+#### Faraday stack
 ![pic5.jpg](images/rails-as-an-soa-client-by-pete-hodgson/pic5.jpg)
