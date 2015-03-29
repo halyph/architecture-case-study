@@ -4,8 +4,8 @@
 - Groupon
 - SoundCloud
 - Gilt
-
-[Wanelo](wanelo.md)
+- [Wanelo](wanelo.md)
+- [Flipcart](flipcart.md)
 
 ## References
 
@@ -31,17 +31,6 @@
   - [Interview With Eric Bowman of Gilt.com](http://code.tutsplus.com/articles/interview-with-eric-bowman-of-giltcom--net-35653)
   - [How Gilt's Insane Traffic Spikes Pushed It Off Rails To Scala](http://readwrite.com/2014/05/08/gilt-eric-bowman-interview-scala-rails-jvm-reactive-platform)
 
-Performance is not a language issue. It's architecture issue.
-Why Ruby? The idea is the speed of development
-
-### Flipcart 
-Flipkart, is an E-Commerce company
-In 2012 Flipkart's supply chain system was re-built as a service oriented architecture with Ruby at its core. This talk will cover our experiences designing, building and scaling a mission-critical Ruby-based system where data integrity and performance is vital. Dealing with cross-service transaction integrity JRuby - the good, bad & ugly Coordinating gem upgrades across multiple services Performance tuning to get predictable response times - taming queries, external calls, GC, locks Monitoring & profiling production systems Ruby app servers: Trinidad vs Passenger vs Unicorn Challenges in ramping up teams on Ruby etc
-
-[Githut](https://github.com/flipkart)
-![Architecture](images/flipcart/architecture.jpg?raw=true)
-
-- [Lessons Learnt Building India's E-Commerce Supply Chain in Ruby, by Yogi Kulkarni](http://www.slideshare.net/yogi/lessons-learnt-building-indias-largest-e-commerce-supply-chain-in-ruby) and [video](http://confreaks.tv/videos/gardencityruby2014-lessons-learnt-building-india-s-e-commerce-supply-chain-in-ruby)
 
 ### Others
 - [Quora - Does Ruby on Rails scale?](http://www.quora.com/Does-Ruby-on-Rails-scale) ask long time ago - 2013
