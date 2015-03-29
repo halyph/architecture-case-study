@@ -1,17 +1,14 @@
 # Ruby on Rails Architecture Case Studies
 
 ## List of case stadies
-- Groupon
+- [Groupon](groupon.md)
 - SoundCloud
 - Gilt
 - [Wanelo](wanelo.md)
 - [Flipcart](flipcart.md)
+- [RailsConf 2014 - Rails as an SOA Client by Pete Hodgson](rails-as-an-soa-client-by-pete-hodgson.md)
 
 ## References
-
-### Wanelo
-
-- [Enterprise Architectures with Ruby (and Rails) (Konstantin Gredeskoul, CTO at Wanelo)](http://www.slideshare.net/kigster/enterprise-architectures-with-ruby-and-rails%20)
 
 ### Groupon
 

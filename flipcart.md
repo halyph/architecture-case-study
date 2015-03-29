@@ -13,4 +13,5 @@ Moved back to CRuby from JRuby
 [Githut](https://github.com/flipkart)
 ![Architecture](images/flipcart/architecture.jpg?raw=true)
 
-- [Lessons Learnt Building India's E-Commerce Supply Chain in Ruby, by Yogi Kulkarni](http://www.slideshare.net/yogi/lessons-learnt-building-indias-largest-e-commerce-supply-chain-in-ruby) and [video](http://confreaks.tv/videos/gardencityruby2014-lessons-learnt-building-india-s-e-commerce-supply-chain-in-ruby)
+- [Lessons Learnt Building India's E-Commerce Supply Chain in Ruby, by Yogi Kulkarni](http://www.slideshare.net/yogi/lessons-learnt-building-indias-largest-e-commerce-supply-chain-in-ruby) 
+- and [video](http://confreaks.tv/videos/gardencityruby2014-lessons-learnt-building-india-s-e-commerce-supply-chain-in-ruby)
