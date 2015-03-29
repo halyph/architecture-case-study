@@ -19,7 +19,7 @@ Presenter concentrates on development issues, especially testing external servic
 #### Rails App and services
 ![pic2.jpg](images/rails-as-an-soa-client-by-pete-hodgson/pic2.jpg)
 
-#### Monolith Rails App and ext services
+#### Rails App and ext services
 ![pic3.jpg](images/rails-as-an-soa-client-by-pete-hodgson/pic3.jpg)
 
 #### Rack stack
