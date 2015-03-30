@@ -2,6 +2,7 @@
 
 ## List of case stadies
 - [Groupon](groupon.md)
+- [Fiverr](fiverr.md)
 - SoundCloud
 - Gilt
 - [Wanelo](wanelo.md)
@@ -37,3 +38,4 @@
 - [Deployment with Ruby on Rails](http://www.slideshare.net/jweiss/deployment-with-ruby-on-rails)
 - [Deploying And Monitoring Rails](http://www.slideshare.net/jweiss/deploying-and-monitoring-rails)
 - [Why Do They Say Rails Doesn't Scale?](http://codefol.io/posts/why-do-they-say-rails-doesnt-scale)
+- [CQRS (Command and Query Responsibility Segregation)](http://martinfowler.com/bliki/CQRS.html)
