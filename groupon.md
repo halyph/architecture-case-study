@@ -4,8 +4,6 @@
  
  - [I-Tier: Dismantling the Monolith](https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/) actual case study of migration
 
-
-
 ### Case Study
 
 We recently completed a year-long project to migrate Groupon’s U.S. web traffic from a **monolithic Ruby on Rails** application to a new **Node.js** stack with substantial results.

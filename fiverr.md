@@ -1,4 +1,11 @@
 ## Fiverr
+
+### References
+
+- [Scaling the biggest marketplace for services: From a Ruby on Rails Monolith to Microservices and CQRS](http://blog.fiverr.com/scaling-biggest-marketplace-services-ruby-rails-monolith-microservices-cqrs/)
+
+### Case Study 
+
 To start things off, we used a classic Ruby on Rails application on a LAMP stack because of its simplicity and ease of bootstrapping.
 
 Here’s the approach we took to ensure system scalability and long-term quality:
@@ -39,7 +46,4 @@ Two paradigms became the basis for the architecture change:
 - More moving parts results in higher complexity.
 - Some code duplication is inevitable.
 
-### References
-
-- [Scaling the biggest marketplace for services: From a Ruby on Rails Monolith to Microservices and CQRS](http://blog.fiverr.com/scaling-biggest-marketplace-services-ruby-rails-monolith-microservices-cqrs/)
 

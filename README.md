@@ -3,17 +3,13 @@
 ## List of case stadies
 - [Groupon](groupon.md)
 - [Fiverr](fiverr.md)
-- SoundCloud
-- Gilt
-- [Wanelo](wanelo.md)
 - [Flipcart](flipcart.md)
 - [RailsConf 2014 - Rails as an SOA Client by Pete Hodgson](rails-as-an-soa-client-by-pete-hodgson.md)
+- SoundCloud
+- Gilt
+- Wanelo(wanelo.md)
 
 ## References
-
-### Groupon
-
-- [Groupon Architecture](https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/) We recently completed a year-long project to migrate Groupon’s U.S. web traffic from a monolithic Ruby on Rails application to a new Node.js stack with substantial results.
 
 ### SoundCloud
 
