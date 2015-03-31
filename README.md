@@ -17,6 +17,8 @@
   - [Interview With Eric Bowman of Gilt.com](http://code.tutsplus.com/articles/interview-with-eric-bowman-of-giltcom--net-35653)
   - [How Gilt's Insane Traffic Spikes Pushed It Off Rails To Scala](http://readwrite.com/2014/05/08/gilt-eric-bowman-interview-scala-rails-jvm-reactive-platform)
 
+### Karma
+- [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 
 ### Others
 - [Quora - Does Ruby on Rails scale?](http://www.quora.com/Does-Ruby-on-Rails-scale) ask long time ago - 2013
