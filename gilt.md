@@ -7,6 +7,7 @@ Gilt transformed its **monolithic Rails** application into a distributed, fault-
 - [Interview With Eric Bowman of Gilt.com](http://code.tutsplus.com/articles/interview-with-eric-bowman-of-giltcom--net-35653)
 - Interview [How Gilt's Insane Traffic Spikes Pushed It Off Rails To Scala](http://readwrite.com/2014/05/08/gilt-eric-bowman-interview-scala-rails-jvm-reactive-platform)
 - **Slides**:
+  - [Scaling Gilt" at Gilt: NYC Tech Talks Comes to 2 Park](http://www.slideshare.net/LappleApple/gilt-from-monolith-ruby-app-to-micro-service-scala-service-architecture)
   - [Scaling Gilt: from Monolithic Ruby Application to Distributed Scala Micro-Services Architecture](http://www.slideshare.net/InfoQ/scaling-gilt-from-monolithic-ruby-application-to-distributed-scala-microservices-architecture)
 - **Videos**:
   - [Scaling Microservices at Gilt](https://www.youtube.com/watch?v=ZxE_wLWu1x4)
@@ -14,12 +15,12 @@ Gilt transformed its **monolithic Rails** application into a distributed, fault-
 
 ### Case Study
 
-These notes are based on [""Scaling Gilt" at Gilt: NYC Tech Talks Comes to 2 Park"][1].
+These notes are based on ["Scaling Gilt" at Gilt: NYC Tech Talks Comes to 2 Park"][1].
 
 Gilt is classic startup story.
 2007 RoR hot thing. The goal was to get to the marker.
 
-Tech stack
+Initial Tech stack
 - Postgresql
 - Memcashed
 - Ruby on Rails
@@ -47,6 +48,24 @@ We needed to solve the problem fast.
 ![](images/gilt/pic2.jpg)
 
 This architecture did not solved dev pain points.
+
+> **LOSA** - Lots of Small Apps
+
+#### Moving to Micro Service
+
+![](images/gilt/pic3.png)
+
+
+##### Decision Table on moving to Micro Services
+
+The Good | The Ugly
+--- | ---
+Easier to develop with more than 30 engineers | Hard to maintain integration environment
+Big problems are broken to smaller ones | Build custom tools for deployment
+Provide unique hardware needs for different features | Monitoring is much harder
+Teams handle their own deploy | Dependency Hell
+
+
 
 
 [1]: http://tech.gilt.com/post/73434506726/scaling-gilt-at-gilt-nyc-tech-talks-comes-to-2

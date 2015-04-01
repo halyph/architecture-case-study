@@ -1,7 +1,8 @@
 # Architecture Case Studies
 
 
-## Ruby on Rails Architecture Case Studies
+
+## _Ruby on Rails_ Architecture Case Studies
 - [Groupon](groupon.md)
 - [Fiverr](fiverr.md)
 - [Flipcart](flipcart.md)
