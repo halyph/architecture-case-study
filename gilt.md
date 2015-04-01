@@ -1,5 +1,9 @@
 ## Gilt
 
+Gilt is an online shopping website based in the United States. Gilt Groupe was founded in 2007 and has over 6 million members.
+
+**Founded**: 2007
+
 Gilt transformed its **monolithic Rails** application into a distributed, fault-tolerant, scalable architecture built on **Scala microservices**.
 
 ### References

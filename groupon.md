@@ -1,5 +1,9 @@
 ## Groupon
 
+Groupon is a deal-of-the-day website that features discounted gift certificates usable at local or national companies.
+
+**Founded**: January 2008
+
 ### References
 
  - [I-Tier: Dismantling the Monolith](https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths) actual case study of migration
