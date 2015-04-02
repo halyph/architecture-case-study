@@ -25,7 +25,8 @@ All this content is based on publicly available resources, like: YouTube, Vimeo,
 - [Cloudhdr](cloudhdr.md) - Service Oriented Authentication
 - [Yammer](yammer.md)
 - General
-  - [RailsConf 2014 - Rails as an SOA Client by Pete Hodgson](rails-as-an-soa-client-by-pete-hodgson.md)
+  - [Rails as an SOA Client by Pete Hodgson](rails-as-an-soa-client-by-pete-hodgson.md)
+  - [Deploy Rails](deploy-rails.md)
 
 ## TODO list
 There are a lot to learn and investigate, thats why [TODO](TODO.md) was created to form backlog. In future items from backlog should be transformed into dedicated articles.
