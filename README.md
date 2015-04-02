@@ -21,8 +21,8 @@ All this content is based on publicly available resources, like: YouTube, Vimeo,
 - [Flipcart](flipcart.md)
 - [Gilt](gilt.md)
 - [Shopify](shopify.md)
-- [Climate Corporation](climatecorp.md) - Service Oriented Authorization
-- [Cloudhdr](cloudhdr.md) - Service Oriented Authentication
+- [Climate Corporation](climatecorp.md) - Service Oriented **Authorization**
+- [Cloudhdr](cloudhdr.md) - Service Oriented **Authentication**
 - [Yammer](yammer.md)
 - General
   - [Rails as an SOA Client by Pete Hodgson](rails-as-an-soa-client-by-pete-hodgson.md)
