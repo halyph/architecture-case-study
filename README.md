@@ -3,12 +3,12 @@
 
 
 ## _Ruby on Rails_ Architecture Case Studies
+- [Wanelo](wanelo.md)
 - [Groupon](groupon.md)
+- [SoundCloud](soubdcloud.md)
 - [Fiverr](fiverr.md)
 - [Flipcart](flipcart.md)
-- [SoundCloud](soubdcloud.md)
 - [Gilt](gilt.md)
-- [Wanelo](wanelo.md)
 - [Shopify](shopify.md)
 - [Climate Corporation](climatecorp.md) - Service Oriented Authorization
 - [Cloudhdr](cloudhdr.md) - Service Oriented Authentication
