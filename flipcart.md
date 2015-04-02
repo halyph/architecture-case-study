@@ -1,5 +1,7 @@
 ## Flipcart
 
+Flipkart, is an E-Commerce company established in 2007 by Sachin Bansal and Binny Bansal. It is registered in Singapore, with headquarters at Bangalore, Karnataka.
+
 ### References
 - [slideshare - Lessons Learnt Building India's E-Commerce Supply Chain in Ruby, by Yogi Kulkarni](http://www.slideshare.net/yogi/lessons-learnt-building-indias-largest-e-commerce-supply-chain-in-ruby)
 - [video](http://confreaks.tv/videos/gardencityruby2014-lessons-learnt-building-india-s-e-commerce-supply-chain-in-ruby)

@@ -1,5 +1,10 @@
 ## SoundCloud
 
+SoundCloud is a Swedish online audio distribution platform based in Berlin, Germany, that enables its users to upload, record, promote, and share their originally-created sounds.
+
+**Founded**: August 2007
+
+
 ### References
 - [Evolution of SoundCloud’s Architecture][Evolution Architecture] This is a story of how we adapted our architecture over time to accomodate growth.
 - [From a monolithic Ruby on Rails app to the JVM](http://www.slideshare.net/pcalcado/from-a-monolithic-ruby-on-rails-app-to-the-jvm)

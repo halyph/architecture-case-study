@@ -6,6 +6,7 @@ CloudHDR - HDR Photo Processing Automation
 - **Video**:
   - [RailsConf 2014 - Service Oriented Authenication by Jeremy Green](https://www.youtube.com/watch?v=L1B_HpCW8bs)
 - [Slides](http://jagthedrummer.github.io/service_oriented_authentication)
+ - These slides are in github
 - Repos
   - https://github.com/jagthedrummer/so_auth_provider
   - https://github.com/jagthedrummer/so_auth

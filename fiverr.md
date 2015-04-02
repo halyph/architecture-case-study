@@ -1,10 +1,15 @@
 ## Fiverr
 
+Fiverr is a global online marketplace offering tasks and services, beginning at a cost of $5 per job performed, from which it gets its name. The site is primarily used by freelancers who use Fiverr to offer a variety of different services to
+customers worldwide
+
+**Founded**: 2010
+
 ### References
 
 - [Scaling the biggest marketplace for services: From a Ruby on Rails Monolith to Microservices and CQRS](http://blog.fiverr.com/scaling-biggest-marketplace-services-ruby-rails-monolith-microservices-cqrs/)
 
-### Case Study 
+### Case Study
 
 To start things off, we used a classic Ruby on Rails application on a LAMP stack because of its simplicity and ease of bootstrapping.
 
@@ -29,7 +34,7 @@ Two paradigms became the basis for the architecture change:
 
 - [Microservices](http://martinfowler.com/articles/microservices.html) – We decided that microservices would be responsible for query operations when the higher application layer interacts with microservices using RESTful protocol.
 
-- [CQRS (Command and Query Responsibility Segregation)](http://martinfowler.com/bliki/CQRS.html) – We moved command operations (INSERT, UPDATE, DELETE) to an event-based asynchronous platform using RabbitMQ as a message broker. 
+- [CQRS (Command and Query Responsibility Segregation)](http://martinfowler.com/bliki/CQRS.html) – We moved command operations (INSERT, UPDATE, DELETE) to an event-based asynchronous platform using RabbitMQ as a message broker.
 
 ![](images/fiverr/pic1.png)
 
@@ -45,5 +50,3 @@ Two paradigms became the basis for the architecture change:
 
 - More moving parts results in higher complexity.
 - Some code duplication is inevitable.
-
-
