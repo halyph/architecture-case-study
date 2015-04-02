@@ -53,7 +53,7 @@ We have a huge Rails app
 
 
 - **Q1: What should I extract out into a service?**
-- A: Things that...
+  - Things that...
   - Have little state or don't mutate sate
   - Are new enough to not be tightly coupled
   - Don't exist yet
@@ -61,14 +61,12 @@ We have a huge Rails app
 
 
 - **Q2: Not everything work well ...**
-- A:
   - We A/B test everything
   - Performance issues, tech debt
   - Experiments service
 
 
 - **Q3: Why not a service?**
-- A3:
   - The problems we thought we had weren't as bad as we thought
   - We haven't solved the date prisoner problem yet
   - Service can be an excuse to start over
