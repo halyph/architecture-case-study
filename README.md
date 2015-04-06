@@ -16,7 +16,7 @@ All this content is based on publicly available resources, like: YouTube, Vimeo,
 ## _Ruby on Rails_ Architecture Case Studies
 - [Wanelo](wanelo.md) - very detailed case study
 - [Groupon](groupon.md)
-- [SoundCloud](soubdcloud.md)
+- [SoundCloud](soundcloud.md)
 - [Fiverr](fiverr.md)
 - [Flipcart](flipcart.md)
 - [Gilt](gilt.md)
